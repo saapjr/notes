@@ -1,0 +1,2 @@
+# notes
+Some LaTeX notes.
